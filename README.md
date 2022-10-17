@@ -7,3 +7,5 @@ School of Business and his remote team from University of Manitoba.
 
 The app has many features designed to gauge the mental health of someone and to act upon it through the use of tried and tested methods of improving said
 health.
+
+The application was written in Swift and the backend was hosted on Google Firebase.
