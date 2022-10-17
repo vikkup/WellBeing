@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>402717968640-gk7lfie6ghu0d0n9rs7l9ug7fr4l5647.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.402717968640-gk7lfie6ghu0d0n9rs7l9ug7fr4l5647</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbwEWMCDcKatk-D0LYYJL0qhBBWThTxT8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>402717968640</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sampsonkj.y2k-Wellbeing</string>
+	<key>PROJECT_ID</key>
+	<string>y2k-wellbeing</string>
+	<key>STORAGE_BUCKET</key>
+	<string>y2k-wellbeing.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:402717968640:ios:0a94bc68bafa4f79c4cbe5</string>
+</dict>
+</plist>
